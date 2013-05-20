@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<Configuration xmlns="http://www.sdltridion.com/2009/GUI/Configuration"
+	xmlns:ext="http://www.sdltridion.com/2009/GUI/extensions"
+	xmlns:cmenu="http://www.sdltridion.com/2009/GUI/extensions/ContextMenu">
+
+	<editors>
+		
+		<editor xmlns="http://www.sdltridion.com/2009/GUI/Configuration" name="UIBeardcore.Extension.XSLT.Editor">
+			<installpath>D:\von Eagle - Private\Projects\InternalProjects\UIBeardcore.Extencibility\Extensions\UIBeardcore.Extension.XSLT.FormatArea</installpath>
+			<configuration>Configuration\UIBeardcore.Extension.XSLT.FormatArea.Editor.config</configuration>
+			<vdir>UIBeardcoreExtensionXSLTFA</vdir>
+		</editor>
+			
+	</editors>
+		
+</Configuration>
