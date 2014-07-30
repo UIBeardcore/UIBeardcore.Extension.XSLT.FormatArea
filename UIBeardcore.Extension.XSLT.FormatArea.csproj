@@ -66,12 +66,6 @@
   <ItemGroup>
     <Content Include="Configuration\UIBeardcore.Extension.XSLT.FormatArea.Editor.config" />
     <Content Include="Configuration\System.config.sample.xml" />
-    <None Include="Web.Debug.config">
-      <DependentUpon>Web.config</DependentUpon>
-    </None>
-    <None Include="Web.Release.config">
-      <DependentUpon>Web.config</DependentUpon>
-    </None>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Themes\" />
